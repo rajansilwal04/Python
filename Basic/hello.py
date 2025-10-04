@@ -3,5 +3,5 @@
 # z=a+b
 # print(z)i
 
-print("Hello my naem is Rajan\nWassup")
-print("Hello my naem is Rajan")
+print("Hello my name is Rajan\nWassup")
+print("Hello my name is Rajan")
